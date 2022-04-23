@@ -3,11 +3,11 @@
   <title>Blog</title>
   
   <subtitle>Oliver的博客</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://oliverbroken.gitee.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://oliverbroken.gitee.io/"/>
   <updated>2022-04-17T02:17:23.840Z</updated>
-  <id>http://example.com/</id>
+  <id>https://oliverbroken.gitee.io/</id>
   
   <author>
     <name>oliver</name>
@@ -18,9 +18,9 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/04/17/hello-world/"/>
-    <id>http://example.com/2022/04/17/hello-world/</id>
-    <published>2022-04-17T02:17:23.840Z</published>
+    <link href="https://oliverbroken.gitee.io/2022/04/18/hello-world/"/>
+    <id>https://oliverbroken.gitee.io/2022/04/18/hello-world/</id>
+    <published>2022-04-18T13:06:08.835Z</published>
     <updated>2022-04-17T02:17:23.840Z</updated>
     
     
