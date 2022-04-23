@@ -6,7 +6,7 @@
   <link href="https://oliverbroken.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://oliverbroken.gitee.io/"/>
-  <updated>2022-04-17T02:17:23.840Z</updated>
+  <updated>2022-04-23T23:49:45.884Z</updated>
   <id>https://oliverbroken.gitee.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于持续集成</title>
+    <link href="https://oliverbroken.gitee.io/2022/04/24/guan-yu-chi-xu-ji-cheng/"/>
+    <id>https://oliverbroken.gitee.io/2022/04/24/guan-yu-chi-xu-ji-cheng/</id>
+    <published>2022-04-23T23:47:46.000Z</published>
+    <updated>2022-04-23T23:49:45.884Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前置概念&quot;&gt;&lt;a href=&quot;#前置概念&quot; class=&quot;headerlink&quot; title=&quot;前置概念&quot;&gt;&lt;/a&gt;前置概念&lt;/h2&gt;&lt;h3 id=&quot;CI-的含义&quot;&gt;&lt;a href=&quot;#CI-的含义&quot; class=&quot;headerlink&quot; title=&quot;CI</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
