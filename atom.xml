@@ -6,7 +6,7 @@
   <link href="https://oliverbroken.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://oliverbroken.gitee.io/"/>
-  <updated>2022-04-23T23:49:45.884Z</updated>
+  <updated>2022-05-26T13:36:30.780Z</updated>
   <id>https://oliverbroken.gitee.io/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>umi前端规范</title>
+    <link href="https://oliverbroken.gitee.io/2022/05/26/umi-qian-duan-gui-fan/"/>
+    <id>https://oliverbroken.gitee.io/2022/05/26/umi-qian-duan-gui-fan/</id>
+    <published>2022-05-26T13:34:28.000Z</published>
+    <updated>2022-05-26T13:36:30.780Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;umi-中后台项目关于团队协作前端工程代码规范&quot;&gt;&lt;a href=&quot;#umi-中后台项目关于团队协作前端工程代码规范&quot; class=&quot;headerlink&quot; title=&quot;umi 中后台项目关于团队协作前端工程代码规范&quot;&gt;&lt;/a&gt;umi</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>webpack常见优化</title>
+    <link href="https://oliverbroken.gitee.io/2022/05/26/webpack-chang-jian-you-hua/"/>
+    <id>https://oliverbroken.gitee.io/2022/05/26/webpack-chang-jian-you-hua/</id>
+    <published>2022-05-26T13:34:06.000Z</published>
+    <updated>2022-05-26T13:36:09.575Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;引入模式&quot;&gt;&lt;a href=&quot;#引入模式&quot; class=&quot;headerlink&quot; title=&quot;引入模式&quot;&gt;&lt;/a&gt;引入模式&lt;/h3&gt;&lt;pre class=&quot; language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>关于持续集成</title>
